@@ -1,0 +1,7 @@
+C:\Users\repra\OneDrive\Área de Trabalho\Nova pasta\lista1\ex2\bin\Debug\ex2.exe.config
+C:\Users\repra\OneDrive\Área de Trabalho\Nova pasta\lista1\ex2\bin\Debug\ex2.exe
+C:\Users\repra\OneDrive\Área de Trabalho\Nova pasta\lista1\ex2\bin\Debug\ex2.pdb
+C:\Users\repra\OneDrive\Área de Trabalho\Nova pasta\lista1\ex2\obj\Debug\ex2.csproj.AssemblyReference.cache
+C:\Users\repra\OneDrive\Área de Trabalho\Nova pasta\lista1\ex2\obj\Debug\ex2.csproj.CoreCompileInputs.cache
+C:\Users\repra\OneDrive\Área de Trabalho\Nova pasta\lista1\ex2\obj\Debug\ex2.exe
+C:\Users\repra\OneDrive\Área de Trabalho\Nova pasta\lista1\ex2\obj\Debug\ex2.pdb

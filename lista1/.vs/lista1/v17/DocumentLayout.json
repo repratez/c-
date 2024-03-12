@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\repra\\OneDrive\\\u00C1rea de Trabalho\\JAQUELINE LISTA 1\\lista1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5467C72B-23A0-493C-8236-6A7C8A6E15A9}|ex1\\ex1.csproj|C:\\Users\\repra\\OneDrive\\\u00C1rea de Trabalho\\JAQUELINE LISTA 1\\lista1\\ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5467C72B-23A0-493C-8236-6A7C8A6E15A9}|ex1\\ex1.csproj|solutionrelative:ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90296C4D-187E-4965-B8C8-75D56A9946EB}|ex2\\ex2.csproj|c:\\users\\repra\\onedrive\\\u00E1rea de trabalho\\jaqueline lista 1\\lista1\\ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90296C4D-187E-4965-B8C8-75D56A9946EB}|ex2\\ex2.csproj|solutionrelative:ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2530EDC-B09A-4CAB-B44F-CF110917B001}|ex3\\ex3.csproj|C:\\Users\\repra\\OneDrive\\\u00C1rea de Trabalho\\JAQUELINE LISTA 1\\lista1\\ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2530EDC-B09A-4CAB-B44F-CF110917B001}|ex3\\ex3.csproj|solutionrelative:ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49D1988-BFE2-4F01-B3A1-9F0CF217FD1B}|ex4\\ex4.csproj|C:\\Users\\repra\\OneDrive\\\u00C1rea de Trabalho\\JAQUELINE LISTA 1\\lista1\\ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49D1988-BFE2-4F01-B3A1-9F0CF217FD1B}|ex4\\ex4.csproj|solutionrelative:ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\repra\\OneDrive\\\u00C1rea de Trabalho\\JAQUELINE LISTA 1\\lista1\\ex4\\Program.cs",
+              "RelativeDocumentMoniker": "ex4\\Program.cs",
+              "ToolTip": "C:\\Users\\repra\\OneDrive\\\u00C1rea de Trabalho\\JAQUELINE LISTA 1\\lista1\\ex4\\Program.cs",
+              "RelativeToolTip": "ex4\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:09:15.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\repra\\OneDrive\\\u00C1rea de Trabalho\\JAQUELINE LISTA 1\\lista1\\ex3\\Program.cs",
+              "RelativeDocumentMoniker": "ex3\\Program.cs",
+              "ToolTip": "C:\\Users\\repra\\OneDrive\\\u00C1rea de Trabalho\\JAQUELINE LISTA 1\\lista1\\ex3\\Program.cs",
+              "RelativeToolTip": "ex3\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwDkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:07:43.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\repra\\OneDrive\\\u00C1rea de Trabalho\\JAQUELINE LISTA 1\\lista1\\ex2\\Program.cs",
+              "RelativeDocumentMoniker": "ex2\\Program.cs",
+              "ToolTip": "C:\\Users\\repra\\OneDrive\\\u00C1rea de Trabalho\\JAQUELINE LISTA 1\\lista1\\ex2\\Program.cs",
+              "RelativeToolTip": "ex2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:06:14.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\repra\\OneDrive\\\u00C1rea de Trabalho\\JAQUELINE LISTA 1\\lista1\\ex1\\Program.cs",
+              "RelativeDocumentMoniker": "ex1\\Program.cs",
+              "ToolTip": "C:\\Users\\repra\\OneDrive\\\u00C1rea de Trabalho\\JAQUELINE LISTA 1\\lista1\\ex1\\Program.cs",
+              "RelativeToolTip": "ex1\\Program.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAgwJEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T17:05:07.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

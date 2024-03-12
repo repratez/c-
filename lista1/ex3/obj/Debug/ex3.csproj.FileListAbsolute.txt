@@ -1,0 +1,14 @@
+C:\Users\repra\OneDrive\Área de Trabalho\Nova pasta\lista1\ex3\obj\Debug\ex3.csproj.AssemblyReference.cache
+C:\Users\repra\OneDrive\Área de Trabalho\Nova pasta\lista1\ex3\obj\Debug\ex3.csproj.CoreCompileInputs.cache
+C:\Users\repra\OneDrive\Área de Trabalho\Nova pasta\lista1\ex3\bin\Debug\ex3.exe.config
+C:\Users\repra\OneDrive\Área de Trabalho\Nova pasta\lista1\ex3\bin\Debug\ex3.exe
+C:\Users\repra\OneDrive\Área de Trabalho\Nova pasta\lista1\ex3\bin\Debug\ex3.pdb
+C:\Users\repra\OneDrive\Área de Trabalho\Nova pasta\lista1\ex3\obj\Debug\ex3.exe
+C:\Users\repra\OneDrive\Área de Trabalho\Nova pasta\lista1\ex3\obj\Debug\ex3.pdb
+C:\Users\repra\OneDrive\Área de Trabalho\lista1 jaqueline (3)\lista1\ex3\bin\Debug\ex3.exe.config
+C:\Users\repra\OneDrive\Área de Trabalho\lista1 jaqueline (3)\lista1\ex3\bin\Debug\ex3.exe
+C:\Users\repra\OneDrive\Área de Trabalho\lista1 jaqueline (3)\lista1\ex3\bin\Debug\ex3.pdb
+C:\Users\repra\OneDrive\Área de Trabalho\lista1 jaqueline (3)\lista1\ex3\obj\Debug\ex3.csproj.AssemblyReference.cache
+C:\Users\repra\OneDrive\Área de Trabalho\lista1 jaqueline (3)\lista1\ex3\obj\Debug\ex3.csproj.CoreCompileInputs.cache
+C:\Users\repra\OneDrive\Área de Trabalho\lista1 jaqueline (3)\lista1\ex3\obj\Debug\ex3.exe
+C:\Users\repra\OneDrive\Área de Trabalho\lista1 jaqueline (3)\lista1\ex3\obj\Debug\ex3.pdb
